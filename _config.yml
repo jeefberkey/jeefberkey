@@ -4,8 +4,12 @@ email: nick.miller@onyxpoint.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm learning how to use GitHub pages!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jeefberkey.github.io/" # the base hostname & protocol for your site
+url: "http://jeefberkey.github.io/pages" # the base hostname & protocol for your site
 github_username:  jeefberkey
 
 # Build settings
 markdown: kramdown
+
+# suggested settings from github
+highlighter: pygments
+
